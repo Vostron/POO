@@ -7,7 +7,7 @@ public class Ex13 {
 	public static void main(String [] args) {
 		Scanner ler = new Scanner(System.in);
 		
-		float[] v = {0, 0, 0};
+		float[] v = new float[3];
 		
 		for(int i = 0; i < 3; i++) {
 			System.out.printf("Informe o %d valor: ", i+1);
