@@ -39,7 +39,7 @@ public class Ex21 {
 					break;
 				case 3:
 					if(v2 == 0) {
-						System.out.printf("Erro: impossivel dividir por zero.");
+						System.out.printf("Erro: impossivel dividir por zero.\n");
 						continue;
 					}
 					System.out.printf("%.2f / %.2f = %.2f", v1, v2, (v1 / v2) );
