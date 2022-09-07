@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ex04 {
 	public static void main(String [] args) {
 		Scanner ler = new Scanner(System.in);
-		double[] v = {0, 0, 0, 0};
+		double[] v = new double[4];
 		double sum = 0;
 		
 		for(int i = 0; i < 4; i++) {
