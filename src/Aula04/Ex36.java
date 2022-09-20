@@ -27,7 +27,7 @@ public class Ex36 {
 				System.out.printf("O valor final do intervalo devera ser maior que o inicial.\n");
 		}while(intFim <= intInicio);
 		
-		for(int i = intInicio; i <= intFim; i++)
+		for(int i = intFim; i >= intInicio; i--)
 			System.out.printf("%d x %d = %d\n", i, x, (i * x));
 	}
 }
