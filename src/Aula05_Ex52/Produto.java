@@ -1,4 +1,4 @@
-package Aula05_Ex43;
+package Aula05_Ex52;
 
 public class Produto {
 	public int id;

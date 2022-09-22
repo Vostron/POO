@@ -1,4 +1,4 @@
-package Aula05_Ex42;
+package Aula05_Ex51;
 
 import java.util.Scanner;
 

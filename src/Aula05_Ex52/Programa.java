@@ -1,8 +1,8 @@
-package Aula05_Ex43;
+package Aula05_Ex52;
 
 import java.util.Scanner;
 
-import Aula05_Ex42.Cliente;
+import Aula05_Ex51.Cliente;
 
 public class Programa {
 	public static void main(String[] args) {
