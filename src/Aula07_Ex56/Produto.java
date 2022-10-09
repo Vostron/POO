@@ -60,11 +60,13 @@ public class Produto {
 	}
 	
 	public String exibirNomePreco() {
-		return "";
+		return "Nome: " + this.nome +
+				"\nPreco: " + this.preco;
 	}
 	
 	public String exibirNomeQuantidade() {
-		return "";
+		return "Nome: " + this.nome + 
+				"\nQuantidade: " + this.quantidade;
 	}
 	
 }
