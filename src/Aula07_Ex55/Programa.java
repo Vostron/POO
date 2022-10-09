@@ -9,7 +9,7 @@ public class Programa {
 		Scanner ler = new Scanner(System.in);
 		Cliente[] listaClientes = new Cliente[5];
 		
-		for(int i = 0; i < 2; i++) {
+		for(int i = 0; i < 5; i++) {
 			listaClientes[i] = new Cliente();
 			listaClientes[i].setId(i);
 			
@@ -49,7 +49,7 @@ public class Programa {
 		
 		System.out.println("\nExibindo dados dos clientes cadastrados:");
 		
-		for(int i = 0; i < 2; i++) {
+		for(int i = 0; i < 5; i++) {
 			System.out.println("\n====================");
 			System.out.println(listaClientes[i].exibirNomeIdade());
 			
