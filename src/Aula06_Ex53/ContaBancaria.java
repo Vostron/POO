@@ -1,4 +1,4 @@
-package Aula6_Ex53;
+package Aula06_Ex53;
 
 public class ContaBancaria {
 	public String agencia;
