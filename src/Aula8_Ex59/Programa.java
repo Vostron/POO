@@ -124,7 +124,7 @@ public class Programa {
 						}
 						
 					System.out.println("Pressione enter para continuar...");
-					System.in.read();					
+					System.in.read();
 					break;
 					
 				case 3:
