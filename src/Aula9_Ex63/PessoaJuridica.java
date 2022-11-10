@@ -7,8 +7,8 @@ public class PessoaJuridica extends Pessoa{
 		return CNPJ;
 	}
 
-	public void setCNPJ(String cNPJ) {
-		CNPJ = cNPJ;
+	public void setCNPJ(String CNPJ) {
+		this.CNPJ = CNPJ;
 	}
 	
 	PessoaJuridica(){
